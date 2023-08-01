@@ -1,4 +1,8 @@
-### Hi there 👋
+## Front-end 채명수 
+
+유저들이 어떤 UI에서 만족도가 높은지에 관한 관심이 많습니다.
+
+
 
 <!--
 **coaudtn0276/coaudtn0276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
