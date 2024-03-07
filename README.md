@@ -6,8 +6,9 @@
 최소 3회의 클릭 안에 유저가 원하는 정보를 얻을 수 있게 개발하는 것을 목표로 하고 있습니다.
 
 ### Projects
-- 내가 가지고있는 자산(개인계좌, 투자계좌)을 한눈에 보고 사용한 소비내역 입력을 통한 지출계획 한눈에 보기[[📁 프로젝트 소개](https://github.com/codestates-seb/seb44_main_010)]
 - Next.js를 이용한 풀스텍 커뮤니티 게시판[[📁 프로젝트 소개](https://github.com/coaudtn0276/HelloStory)]
+- 내가 가지고있는 자산(개인계좌, 투자계좌)을 한눈에 보고 사용한 소비내역 입력을 통한 지출계획 한눈에 보기[[📁 프로젝트 소개](https://github.com/codestates-seb/seb44_main_010)]
+
 
 ### STACK
 
